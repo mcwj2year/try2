@@ -8,10 +8,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int arc, char *argv[])
+int main(void)
 {
 	printf("hello,world/n");
-	return (0);
+	return 0;
 
 }
 
